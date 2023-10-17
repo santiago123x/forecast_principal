@@ -1,0 +1,9 @@
+[submodule "src/CIAT.DAPA.USAID.Forecast.Data"]
+	path = src/CIAT.DAPA.USAID.Forecast.Data
+	url = https://github.com/santiago123x/CIAT.DAPA.USAID.Forecast.Data
+[submodule "src/CIAT.DAPA.USAID.Forecast.WebAPI"]
+	path = src/CIAT.DAPA.USAID.Forecast.WebAPI
+	url = https://github.com/santiago123x/CIAT.DAPA.USAID.Forecast.WebAPI.git
+[submodule "src/CIAT.DAPA.USAID.Forecast.ForecastApp"]
+	path = src/CIAT.DAPA.USAID.Forecast.ForecastApp
+	url = https://github.com/santiago123x/CIAT.DAPA.USAID.Forecast.ForecastApp.git
