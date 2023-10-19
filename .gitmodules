@@ -7,3 +7,6 @@
 [submodule "src/CIAT.DAPA.USAID.Forecast.ForecastApp"]
 	path = src/CIAT.DAPA.USAID.Forecast.ForecastApp
 	url = https://github.com/santiago123x/CIAT.DAPA.USAID.Forecast.ForecastApp.git
+[submodule "src/CIAT.DAPA.USAID.Forecast.WebAdmin"]
+	path = src/CIAT.DAPA.USAID.Forecast.WebAdmin
+	url = https://github.com/santiago123x/CIAT.DAPA.USAID.Forecast.WebAdmin
